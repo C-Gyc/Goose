@@ -1,0 +1,153 @@
+
+HolyLightNunSkeleton.png
+size: 249,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 46, 28
+  size: 47, 51
+  orig: 47, 52
+  offset: 0, 1
+  index: -1
+chibang1
+  rotate: true
+  xy: 95, 31
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 165, 8
+  size: 31, 32
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 113, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: true
+  xy: 84, 2
+  size: 24, 27
+  orig: 25, 27
+  offset: 1, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 46, 81
+  size: 61, 59
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 109, 89
+  size: 68, 51
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: true
+  xy: 205, 46
+  size: 43, 31
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 2, 18
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 179, 91
+  size: 68, 49
+  orig: 73, 49
+  offset: 5, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 198, 8
+  size: 11, 12
+  orig: 11, 13
+  offset: 0, 1
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 165, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: false
+  xy: 109, 81
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 147, 2
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+yifushizi
+  rotate: false
+  xy: 215, 28
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: false
+  xy: 46, 2
+  size: 36, 24
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 134, 43
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+youyanbai
+  rotate: false
+  xy: 134, 31
+  size: 9, 10
+  orig: 32, 10
+  offset: 23, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 2, 6
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 171, 42
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+zuoyanbai
+  rotate: true
+  xy: 198, 22
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1

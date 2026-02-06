@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 98,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++_00004
+  rotate: false
+  xy: 50, 43
+  size: 42, 41
+  orig: 42, 44
+  offset: 0, 1
+  index: -1
+aixin111_00005_00005
+  rotate: false
+  xy: 44, 174
+  size: 46, 42
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+aixin111_00005_00006
+  rotate: false
+  xy: 44, 130
+  size: 46, 42
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+aixin111_00005_00007
+  rotate: false
+  xy: 2, 86
+  size: 46, 42
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+aixin111_00005_00008
+  rotate: false
+  xy: 50, 86
+  size: 46, 42
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+aixin111_00012
+  rotate: false
+  xy: 50, 2
+  size: 42, 39
+  orig: 46, 43
+  offset: 2, 1
+  index: -1
+aixin_00004
+  rotate: false
+  xy: 2, 2
+  size: 42, 38
+  orig: 46, 43
+  offset: 2, 2
+  index: -1
+aixin_0001_00006
+  rotate: false
+  xy: 2, 42
+  size: 46, 42
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+glow_an_00002
+  rotate: false
+  xy: 2, 218
+  size: 90, 127
+  orig: 103, 139
+  offset: 8, 7
+  index: -1
+glow_right_00002_00002
+  rotate: false
+  xy: 2, 130
+  size: 40, 86
+  orig: 60, 104
+  offset: 10, 7
+  index: -1

@@ -1,0 +1,62 @@
+
+tusichazi.png
+size: 110,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chazi
+  rotate: true
+  xy: 2, 49
+  size: 26, 95
+  orig: 26, 95
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 84, 11
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 91, 29
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 99, 48
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+youshouzhi
+  rotate: false
+  xy: 68, 8
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 84, 3
+  size: 6, 17
+  orig: 10, 17
+  offset: 4, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 68, 20
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8fdda6e6-ce9b-48da-b638-843ae581d5af",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8fdda6e6-ce9b-48da-b638-843ae581d5af@6c48a",
+      "displayName": "技能冷却时间",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "8fdda6e6-ce9b-48da-b638-843ae581d5af",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "8fdda6e6-ce9b-48da-b638-843ae581d5af@f9941",
+      "displayName": "技能冷却时间",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0.5,
+        "offsetY": -1.5,
+        "trimX": 12,
+        "trimY": 20,
+        "width": 35,
+        "height": 21,
+        "rawWidth": 58,
+        "rawHeight": 58,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -17.5,
+            -10.5,
+            0,
+            17.5,
+            -10.5,
+            0,
+            -17.5,
+            10.5,
+            0,
+            17.5,
+            10.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            12,
+            38,
+            47,
+            38,
+            12,
+            17,
+            47,
+            17
+          ],
+          "nuv": [
+            0.20689655172413793,
+            0.29310344827586204,
+            0.8103448275862069,
+            0.29310344827586204,
+            0.20689655172413793,
+            0.6551724137931034,
+            0.8103448275862069,
+            0.6551724137931034
+          ],
+          "minPos": [
+            -17.5,
+            -10.5,
+            0
+          ],
+          "maxPos": [
+            17.5,
+            10.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8fdda6e6-ce9b-48da-b638-843ae581d5af@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "8fdda6e6-ce9b-48da-b638-843ae581d5af@6c48a"
+  }
+}

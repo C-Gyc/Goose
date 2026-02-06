@@ -1,0 +1,132 @@
+
+zhengguoguai.png
+size: 507,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1shou2
+  rotate: true
+  xy: 402, 2
+  size: 49, 48
+  orig: 51, 61
+  offset: 2, 13
+  index: -1
+bashou11
+  rotate: true
+  xy: 477, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+bashou2
+  rotate: true
+  xy: 452, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+gaizi1
+  rotate: false
+  xy: 147, 5
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+haofan
+  rotate: false
+  xy: 346, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+hugai1
+  rotate: false
+  xy: 347, 108
+  size: 104, 32
+  orig: 104, 32
+  offset: 0, 0
+  index: -1
+huojiao1
+  rotate: true
+  xy: 346, 18
+  size: 45, 54
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+huojiao2
+  rotate: false
+  xy: 413, 53
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 490, 29
+  size: 52, 15
+  orig: 68, 89
+  offset: 0, 74
+  index: -1
+shenti11
+  rotate: true
+  xy: 2, 6
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+shou1 zuo11
+  rotate: false
+  xy: 292, 16
+  size: 52, 49
+  orig: 52, 53
+  offset: 0, 4
+  index: -1
+shoubi 1
+  rotate: true
+  xy: 453, 83
+  size: 57, 52
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 233, 13
+  size: 57, 52
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 197, 8
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 452, 41
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 147, 38
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 347, 65
+  size: 64, 41
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 233, 67
+  size: 73, 112
+  orig: 73, 112
+  offset: 0, 0
+  index: -1

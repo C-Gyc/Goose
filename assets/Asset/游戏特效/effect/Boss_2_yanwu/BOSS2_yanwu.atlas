@@ -1,0 +1,118 @@
+
+BOSS2_yanwu.png
+size: 551,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanwu_00001
+  rotate: false
+  xy: 517, 85
+  size: 18, 21
+  orig: 113, 99
+  offset: 52, 33
+  index: -1
+yanwu_00002
+  rotate: false
+  xy: 517, 108
+  size: 32, 36
+  orig: 113, 99
+  offset: 46, 29
+  index: -1
+yanwu_00003
+  rotate: false
+  xy: 222, 18
+  size: 42, 45
+  orig: 113, 99
+  offset: 42, 27
+  index: -1
+yanwu_00004
+  rotate: false
+  xy: 166, 6
+  size: 54, 56
+  orig: 113, 99
+  offset: 35, 25
+  index: -1
+yanwu_00005
+  rotate: false
+  xy: 481, 8
+  size: 63, 64
+  orig: 113, 99
+  offset: 23, 22
+  index: -1
+yanwu_00006
+  rotate: false
+  xy: 444, 74
+  size: 71, 70
+  orig: 113, 99
+  offset: 19, 19
+  index: -1
+yanwu_00007
+  rotate: false
+  xy: 364, 68
+  size: 78, 76
+  orig: 113, 99
+  offset: 17, 16
+  index: -1
+yanwu_00008
+  rotate: false
+  xy: 278, 66
+  size: 84, 78
+  orig: 113, 99
+  offset: 16, 14
+  index: -1
+yanwu_00009
+  rotate: false
+  xy: 188, 65
+  size: 88, 79
+  orig: 113, 99
+  offset: 9, 11
+  index: -1
+yanwu_00010
+  rotate: false
+  xy: 96, 64
+  size: 90, 80
+  orig: 113, 99
+  offset: 10, 10
+  index: -1
+yanwu_00011
+  rotate: false
+  xy: 2, 64
+  size: 92, 80
+  orig: 113, 99
+  offset: 11, 10
+  index: -1
+yanwu_00012
+  rotate: false
+  xy: 387, 3
+  size: 92, 63
+  orig: 113, 99
+  offset: 12, 21
+  index: -1
+yanwu_00013
+  rotate: false
+  xy: 302, 2
+  size: 83, 62
+  orig: 113, 99
+  offset: 16, 20
+  index: -1
+yanwu_00014
+  rotate: false
+  xy: 2, 3
+  size: 82, 59
+  orig: 113, 99
+  offset: 18, 21
+  index: -1
+yanwu_00015
+  rotate: false
+  xy: 86, 8
+  size: 78, 54
+  orig: 113, 99
+  offset: 19, 22
+  index: -1
+yanwu_00016
+  rotate: false
+  xy: 266, 13
+  size: 34, 50
+  orig: 113, 99
+  offset: 64, 24
+  index: -1

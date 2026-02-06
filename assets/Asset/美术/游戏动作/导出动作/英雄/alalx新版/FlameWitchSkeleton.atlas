@@ -1,0 +1,111 @@
+
+FlameWitchSkeleton.png
+size: 293,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+babaxian
+  rotate: false
+  xy: 228, 29
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+bzx
+  rotate: true
+  xy: 103, 30
+  size: 30, 61
+  orig: 48, 61
+  offset: 8, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 237, 6
+  size: 21, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+mzcbx
+  rotate: true
+  xy: 261, 29
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+quantou
+  rotate: false
+  xy: 137, 3
+  size: 27, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+tfx
+  rotate: false
+  xy: 55, 3
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 228, 18
+  size: 7, 9
+  orig: 8, 13
+  offset: 0, 2
+  index: -1
+wenzi
+  rotate: true
+  xy: 166, 4
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+yanjingxian
+  rotate: false
+  xy: 103, 4
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+yazui
+  rotate: false
+  xy: 265, 12
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+yfx
+  rotate: false
+  xy: 2, 7
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+ypushouxian
+  rotate: false
+  xy: 196, 18
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 213, 2
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+yzhang
+  rotate: false
+  xy: 213, 9
+  size: 15, 7
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+zhang
+  rotate: false
+  xy: 196, 8
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1

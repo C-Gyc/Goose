@@ -1,0 +1,83 @@
+
+StarShooterSkeleton.png
+size: 109,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingdang
+  rotate: false
+  xy: 85, 156
+  size: 20, 19
+  orig: 78, 85
+  offset: 53, 30
+  index: -1
+lingzi
+  rotate: true
+  xy: 73, 21
+  size: 55, 27
+  orig: 83, 91
+  offset: 28, 29
+  index: -1
+maozi
+  rotate: true
+  xy: 2, 177
+  size: 118, 100
+  orig: 118, 150
+  offset: 0, 50
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 127
+  size: 81, 48
+  orig: 189, 118
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 85, 125
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+quantou
+  rotate: true
+  xy: 2, 297
+  size: 78, 104
+  orig: 111, 108
+  offset: 0, 4
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 55, 53
+  orig: 88, 90
+  offset: 28, 2
+  index: -1
+tou
+  rotate: true
+  xy: 2, 57
+  size: 68, 69
+  orig: 98, 111
+  offset: 23, 42
+  index: -1
+youjiao
+  rotate: true
+  xy: 59, 4
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 73, 97
+  size: 26, 34
+  orig: 92, 90
+  offset: 66, 12
+  index: -1
+zuojiao
+  rotate: true
+  xy: 73, 78
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

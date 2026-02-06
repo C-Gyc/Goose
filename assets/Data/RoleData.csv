@@ -1,0 +1,7 @@
+﻿roleName,id,bulletid,prefab,level,hp,atk,atkspeed,movespeed,def,interval
+string,number,number,string,number,number,number,number,number,number,number
+CashGrabSage,1001,2001,CashGrabSage,1,400,400,200,100,0.5,0.5
+FlameWitch,1002,2002,FlameWitch,1,600,200,200,100,0.5,1
+HolyLightNun,1003,2003,HolyLightNun,1,600,50,200,100,0.5,3
+StarShooter,1004,2004,StarShooter,1,300,500,200,100,0.5,1
+SteamedChicken,1005,2005,SteamedChicken,1,2000,50,200,100,0.5,1

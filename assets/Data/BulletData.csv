@@ -1,0 +1,7 @@
+﻿BulletName,id,roleid,bullet,skill,speed,bulletMode,yspeed
+string,number,number,string,string,number,number,number[]
+刀光,2001,1001,Sword,,200,2,0
+便便,2002,1002,Shit,,200,2,0
+治疗,2003,1003,Bullet,,200,2,0
+星星,2004,1004,Star,,200,2,0
+盾牌,2005,1005,Shield,,200,4,0;30;60

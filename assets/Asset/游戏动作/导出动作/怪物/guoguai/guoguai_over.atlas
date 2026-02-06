@@ -1,0 +1,97 @@
+
+guoguai_over.png
+size: 142,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guochan
+  rotate: true
+  xy: 2, 78
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+guohou
+  rotate: false
+  xy: 2, 133
+  size: 114, 25
+  orig: 134, 25
+  offset: 9, 0
+  index: -1
+guoqian
+  rotate: false
+  xy: 2, 160
+  size: 137, 43
+  orig: 142, 48
+  offset: 0, 5
+  index: -1
+huomiaoL
+  rotate: true
+  xy: 121, 76
+  size: 17, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+huomiaoR
+  rotate: true
+  xy: 118, 128
+  size: 17, 21
+  orig: 17, 22
+  offset: 0, 1
+  index: -1
+koushui  L
+  rotate: true
+  xy: 121, 57
+  size: 17, 19
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+koushuiR
+  rotate: true
+  xy: 118, 147
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 87, 95
+  size: 53, 31
+  orig: 53, 33
+  offset: 0, 2
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 81, 74
+  orig: 114, 82
+  offset: 33, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 119, 26
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 85, 39
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 85, 11
+  size: 26, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 87, 65
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

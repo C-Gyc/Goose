@@ -1,0 +1,13 @@
+
+dunpai.png
+size: 80,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dunpai_00000_00000
+  rotate: false
+  xy: 2, 2
+  size: 76, 88
+  orig: 81, 92
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,62 @@
+
+level up.png
+size: 257,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_00003
+  rotate: false
+  xy: 145, 218
+  size: 92, 125
+  orig: 1280, 720
+  offset: 594, 300
+  index: -1
+glow_2_00003
+  rotate: false
+  xy: 2, 152
+  size: 141, 191
+  orig: 252, 316
+  offset: 59, 56
+  index: -1
+level up/level up_00003
+  rotate: false
+  xy: 2, 73
+  size: 108, 77
+  orig: 1280, 720
+  offset: 584, 306
+  index: -1
+level up/level up_00004
+  rotate: false
+  xy: 145, 138
+  size: 109, 78
+  orig: 1280, 720
+  offset: 583, 306
+  index: -1
+level up/level up_00005
+  rotate: false
+  xy: 112, 59
+  size: 108, 77
+  orig: 1280, 720
+  offset: 584, 306
+  index: -1
+level up/level up_00006
+  rotate: false
+  xy: 2, 2
+  size: 100, 69
+  orig: 1280, 720
+  offset: 588, 310
+  index: -1
+suduxian_00004
+  rotate: false
+  xy: 239, 301
+  size: 13, 42
+  orig: 16, 46
+  offset: 2, 2
+  index: -1
+xingxing_00003
+  rotate: false
+  xy: 222, 103
+  size: 33, 33
+  orig: 37, 35
+  offset: 2, 1
+  index: -1

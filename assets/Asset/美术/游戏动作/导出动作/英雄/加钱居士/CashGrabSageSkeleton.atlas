@@ -1,0 +1,153 @@
+
+CashGrabSageSkeleton.png
+size: 189,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doupeng1
+  rotate: false
+  xy: 138, 63
+  size: 40, 25
+  orig: 54, 74
+  offset: 14, 49
+  index: -1
+doupeng12
+  rotate: false
+  xy: 2, 54
+  size: 71, 65
+  orig: 71, 73
+  offset: 0, 5
+  index: -1
+doupeng4
+  rotate: false
+  xy: 2, 121
+  size: 76, 63
+  orig: 86, 68
+  offset: 10, 5
+  index: -1
+kuzi1
+  rotate: true
+  xy: 147, 204
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: false
+  xy: 138, 90
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+maozi1
+  rotate: true
+  xy: 95, 159
+  size: 96, 50
+  orig: 96, 64
+  offset: 0, 14
+  index: -1
+maozihou1
+  rotate: true
+  xy: 95, 61
+  size: 96, 41
+  orig: 96, 41
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 88, 4
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 185, 253
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: false
+  xy: 185, 249
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: false
+  xy: 34, 33
+  size: 51, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+youjiao1
+  rotate: false
+  xy: 80, 148
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 2, 186
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+youshouxiuzi1
+  rotate: true
+  xy: 144, 15
+  size: 46, 35
+  orig: 46, 44
+  offset: 0, 9
+  index: -1
+youshouxiuzi12
+  rotate: false
+  xy: 2, 5
+  size: 30, 47
+  orig: 47, 51
+  offset: 9, 4
+  index: -1
+youyan1
+  rotate: false
+  xy: 75, 56
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+zhuojiao1
+  rotate: false
+  xy: 75, 69
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+zuiba1
+  rotate: true
+  xy: 80, 123
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 147, 147
+  size: 32, 55
+  orig: 33, 55
+  offset: 1, 0
+  index: -1
+zuotong1
+  rotate: false
+  xy: 34, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+zuoyan1
+  rotate: false
+  xy: 80, 110
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+jiemian_shengji.png
+size: 313,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+side light_00000
+  rotate: false
+  xy: 132, 162
+  size: 179, 137
+  orig: 205, 158
+  offset: 13, 7
+  index: -1
+top light_00000
+  rotate: false
+  xy: 2, 51
+  size: 128, 248
+  orig: 137, 307
+  offset: 4, 6
+  index: -1
+箭头_00003
+  rotate: false
+  xy: 132, 2
+  size: 126, 158
+  orig: 161, 184
+  offset: 16, 18
+  index: -1

@@ -1,0 +1,160 @@
+
+GUAIWU2.png
+size: 445,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bashou1
+  rotate: true
+  xy: 399, 4
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+bashou2
+  rotate: true
+  xy: 387, 4
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+bu
+  rotate: false
+  xy: 196, 53
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 90, 4
+  size: 76, 13
+  orig: 76, 13
+  offset: 0, 0
+  index: -1
+gaizi
+  rotate: false
+  xy: 90, 19
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+hong
+  rotate: true
+  xy: 233, 2
+  size: 106, 99
+  orig: 106, 106
+  offset: 0, 1
+  index: -1
+jiao1
+  rotate: false
+  xy: 334, 4
+  size: 27, 27
+  orig: 105, 75
+  offset: 0, 48
+  index: -1
+jiao2
+  rotate: false
+  xy: 171, 20
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 205, 19
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: true
+  xy: 205, 78
+  size: 30, 26
+  orig: 78, 35
+  offset: 28, 0
+  index: -1
+pao
+  rotate: false
+  xy: 2, 2
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+shentibufen
+  rotate: false
+  xy: 334, 33
+  size: 75, 75
+  orig: 113, 75
+  offset: 38, 0
+  index: -1
+sheshehti1
+  rotate: false
+  xy: 2, 46
+  size: 177, 62
+  orig: 177, 62
+  offset: 0, 0
+  index: -1
+shuaizi
+  rotate: false
+  xy: 168, 4
+  size: 63, 13
+  orig: 63, 13
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 205, 47
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+yanjingyi
+  rotate: false
+  xy: 363, 4
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+yanyan
+  rotate: true
+  xy: 402, 18
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 181, 54
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: false
+  xy: 387, 18
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+you2
+  rotate: true
+  xy: 411, 66
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 181, 69
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+zuo1
+  rotate: true
+  xy: 411, 24
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1

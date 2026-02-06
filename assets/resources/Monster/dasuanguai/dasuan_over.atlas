@@ -1,0 +1,48 @@
+
+dasuan_over.png
+size: 120,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 68, 89
+  orig: 78, 114
+  offset: 2, 4
+  index: -1
+yanjing
+  rotate: true
+  xy: 93, 39
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: true
+  xy: 111, 48
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 107, 18
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 93, 4
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 93, 16
+  size: 21, 12
+  orig: 40, 12
+  offset: 19, 0
+  index: -1

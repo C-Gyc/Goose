@@ -1,0 +1,97 @@
+
+lajiao_baozha.png
+size: 1239,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozah/baozha_00000
+  rotate: false
+  xy: 917, 2
+  size: 34, 42
+  orig: 170, 170
+  offset: 69, 61
+  index: -1
+baozha/baozah/baozha_00001
+  rotate: false
+  xy: 1210, 133
+  size: 27, 29
+  orig: 170, 170
+  offset: 73, 67
+  index: -1
+baozha/baozah/baozha_00002
+  rotate: false
+  xy: 1128, 14
+  size: 66, 78
+  orig: 170, 170
+  offset: 60, 42
+  index: -1
+baozha/baozah/baozha_00003
+  rotate: false
+  xy: 1128, 94
+  size: 80, 68
+  orig: 170, 170
+  offset: 54, 49
+  index: -1
+baozha/baozah/baozha_00004
+  rotate: false
+  xy: 917, 46
+  size: 116, 116
+  orig: 170, 170
+  offset: 32, 26
+  index: -1
+baozha/baozah/baozha_00005
+  rotate: false
+  xy: 780, 31
+  size: 135, 131
+  orig: 170, 170
+  offset: 21, 19
+  index: -1
+baozha/baozah/baozha_00006
+  rotate: false
+  xy: 337, 13
+  size: 152, 149
+  orig: 170, 170
+  offset: 12, 10
+  index: -1
+baozha/baozah/baozha_00007
+  rotate: false
+  xy: 171, 2
+  size: 164, 160
+  orig: 170, 170
+  offset: 6, 4
+  index: -1
+baozha/baozah/baozha_00008
+  rotate: false
+  xy: 2, 3
+  size: 167, 159
+  orig: 170, 170
+  offset: 3, 7
+  index: -1
+baozha/baozah/baozha_00009
+  rotate: false
+  xy: 491, 8
+  size: 147, 154
+  orig: 170, 170
+  offset: 10, 10
+  index: -1
+baozha/baozah/baozha_00010
+  rotate: false
+  xy: 1035, 17
+  size: 91, 145
+  orig: 170, 170
+  offset: 34, 13
+  index: -1
+glow_00000
+  rotate: false
+  xy: 640, 19
+  size: 138, 143
+  orig: 150, 150
+  offset: 7, 2
+  index: -1
+lizi_00000
+  rotate: false
+  xy: 1196, 26
+  size: 41, 66
+  orig: 47, 68
+  offset: 2, 1
+  index: -1

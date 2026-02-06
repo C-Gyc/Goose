@@ -1,0 +1,146 @@
+
+SteamedChickenSkeleton.png
+size: 314,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 282, 104
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 182, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 2, 28
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+B3
+  rotate: true
+  xy: 191, 46
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+b1
+  rotate: true
+  xy: 132, 43
+  size: 65, 57
+  orig: 65, 77
+  offset: 0, 17
+  index: -1
+bai1
+  rotate: true
+  xy: 2, 4
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+bai2
+  rotate: true
+  xy: 290, 23
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+bozi1
+  rotate: false
+  xy: 84, 39
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+duzi1
+  rotate: false
+  xy: 84, 3
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 66, 6
+  size: 20, 16
+  orig: 48, 21
+  offset: 27, 5
+  index: -1
+kuzi1
+  rotate: true
+  xy: 296, 36
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: true
+  xy: 242, 3
+  size: 41, 46
+  orig: 60, 67
+  offset: 19, 0
+  index: -1
+shou
+  rotate: true
+  xy: 182, 7
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: true
+  xy: 149, 4
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 50, 5
+  size: 21, 14
+  orig: 54, 16
+  offset: 33, 2
+  index: -1
+xian3
+  rotate: false
+  xy: 290, 93
+  size: 20, 15
+  orig: 37, 22
+  offset: 1, 0
+  index: -1
+xian4
+  rotate: false
+  xy: 263, 93
+  size: 17, 15
+  orig: 36, 19
+  offset: 4, 4
+  index: -1
+xian6
+  rotate: false
+  xy: 263, 48
+  size: 31, 43
+  orig: 35, 43
+  offset: 4, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 243, 49
+  size: 59, 18
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 22, 5
+  size: 26, 21
+  orig: 26, 22
+  offset: 0, 0
+  index: -1

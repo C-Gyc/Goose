@@ -1,0 +1,146 @@
+
+boss3_baozha.png
+size: 609,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_anse_00001_00001
+  rotate: false
+  xy: 359, 87
+  size: 101, 99
+  orig: 105, 99
+  offset: 1, 0
+  index: -1
+glow_liangse_00001
+  rotate: false
+  xy: 284, 10
+  size: 73, 75
+  orig: 105, 99
+  offset: 15, 12
+  index: -1
+lizi_00001
+  rotate: false
+  xy: 566, 136
+  size: 32, 64
+  orig: 41, 71
+  offset: 5, 4
+  index: -1
+yanwu/yanwu_00000
+  rotate: false
+  xy: 569, 248
+  size: 38, 39
+  orig: 121, 99
+  offset: 40, 28
+  index: -1
+yanwu/yanwu_00001
+  rotate: false
+  xy: 204, 6
+  size: 78, 79
+  orig: 121, 99
+  offset: 20, 9
+  index: -1
+yanwu/yanwu_00002
+  rotate: false
+  xy: 368, 191
+  size: 96, 96
+  orig: 121, 99
+  offset: 11, 0
+  index: -1
+yanwu/yanwu_00003
+  rotate: false
+  xy: 248, 87
+  size: 109, 99
+  orig: 121, 99
+  offset: 5, 0
+  index: -1
+yanwu/yanwu_00004
+  rotate: false
+  xy: 248, 188
+  size: 118, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+yanwu/yanwu_00005
+  rotate: false
+  xy: 2, 188
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+yanwu/yanwu_00006
+  rotate: false
+  xy: 2, 87
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+yanwu/yanwu_00007
+  rotate: false
+  xy: 125, 188
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+yanwu/yanwu_00008
+  rotate: false
+  xy: 125, 87
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+yanwu/yanwu_00009
+  rotate: false
+  xy: 462, 100
+  size: 102, 89
+  orig: 121, 99
+  offset: 8, 6
+  index: -1
+yanwu/yanwu_00010
+  rotate: false
+  xy: 475, 12
+  size: 101, 86
+  orig: 121, 99
+  offset: 9, 8
+  index: -1
+yanwu/yanwu_00011
+  rotate: false
+  xy: 466, 202
+  size: 101, 85
+  orig: 121, 99
+  offset: 9, 9
+  index: -1
+yanwu/yanwu_00012
+  rotate: false
+  xy: 2, 2
+  size: 100, 83
+  orig: 121, 99
+  offset: 10, 10
+  index: -1
+yanwu/yanwu_00013
+  rotate: false
+  xy: 104, 2
+  size: 98, 83
+  orig: 121, 99
+  offset: 8, 9
+  index: -1
+yanwu/yanwu_00014
+  rotate: false
+  xy: 359, 4
+  size: 39, 81
+  orig: 121, 99
+  offset: 65, 11
+  index: -1
+yanwu/yanwu_00015
+  rotate: false
+  xy: 400, 7
+  size: 36, 78
+  orig: 121, 99
+  offset: 67, 14
+  index: -1
+yanwu/yanwu_00016
+  rotate: false
+  xy: 438, 7
+  size: 35, 78
+  orig: 121, 99
+  offset: 68, 14
+  index: -1
